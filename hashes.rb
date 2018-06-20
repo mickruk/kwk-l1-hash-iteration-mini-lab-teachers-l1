@@ -34,4 +34,4 @@ class_celeb_crush = {
 #puts class_celeb_crush
 
 puts class_celeb_crush.keys
-#print out all of the keys in my has 
+#print out all of the keys in my hash 
