@@ -33,10 +33,10 @@ class_celeb_crush = {
 
 #puts class_celeb_crush
 
-#puts class_celeb_crush.keys
+puts class_celeb_crush.keys
 #print out all of the keys in my hash
 
-puts class_celeb_crush.values 
+#puts class_celeb_crush.values 
 #print out all of the values in my hash 
 
 
