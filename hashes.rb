@@ -57,7 +57,7 @@ class_celeb_crush = {
     index += 1 
   end 
   
-  puts 
+  puts instructor_crushes 
 
 
 
