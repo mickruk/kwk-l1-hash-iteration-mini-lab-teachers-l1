@@ -22,13 +22,13 @@ celeb_crush[person_numero_dos] = crush
 class_celeb_crush = {
   "Maggie" => "Zac Efron",
   "Zoe" => "Bruno Mars",
-  "Table 1" = "Karlie Kloss",
-  "Abby" = "Sabrina Carpenter"
-  "Anya" = "Mr. Bean"
-  "Chloe" = "Florence + the Machine"
-  "Zora"= "Beyonce"
-  "Dana" = "Young Leo"
-  "Bella" = "Young Harrison Ford"
+  "Table 1" => "Karlie Kloss",
+  "Abby" => "Sabrina Carpenter"
+  "Anya" => "Mr. Bean"
+  "Chloe" => "Florence + the Machine"
+  "Zora"=> "Beyonce"
+  "Dana" => "Young Leo"
+  "Bella" => "Young Harrison Ford"
 }
 
 puts class_celeb_crush
