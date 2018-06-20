@@ -4,4 +4,4 @@
 
 
 
-celeb_crush = {}
+celeb_crush = {} #how you create an empty hash 
