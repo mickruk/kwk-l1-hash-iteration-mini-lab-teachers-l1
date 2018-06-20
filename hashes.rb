@@ -39,10 +39,12 @@ class_celeb_crush = {
 #puts class_celeb_crush.values 
 #print out all of the values in my hash 
 
-class_celeb_crush.each do |student_names, crushes|
- puts "#{student_names}'s celebrity crush is #{crushes}!!!"
- puts ""
- end 
+# class_celeb_crush.each do |student_names, crushes|
+# puts "#{student_names}'s celebrity crush is #{crushes}!!!"
+# puts ""
+# end 
+ #this iterates through the hash and assigns the keys to a variable called student_names and 
+ #assigns the values to a variable called crushes. then it prints it out in a pretty way!! 
 
 
 
