@@ -5,3 +5,5 @@
 
 
 celeb_crush = {} #how you create an empty hash 
+
+#create our first key and value 
