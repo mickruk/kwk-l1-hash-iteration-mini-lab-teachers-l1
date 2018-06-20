@@ -48,6 +48,8 @@ class_celeb_crush = {
  
  names = ["Michelle", "Dayi"]
  celebs ["Michael B Jordan", "Young Will Smith"]
+ 
+ 
 
 
 
