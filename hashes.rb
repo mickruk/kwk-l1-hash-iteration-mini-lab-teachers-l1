@@ -10,3 +10,8 @@ celeb_crush["Maggie"] = "Zac Efron"
 
 puts celeb_crush 
 #print out the key and the value 
+
+#Way #1 to add someone to our hash 
+person_numero_dos = "Zoe"
+crush = "Bruno Mars"
+celeb_crush[person_numer_dos] = crush 
