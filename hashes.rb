@@ -50,7 +50,7 @@ class_celeb_crush = {
  celebs ["Michael B Jordan", "Young Will Smith"]
  
  instructor_crushes = {}
- 
+  index = 0 
 
 
 
