@@ -39,6 +39,7 @@ class_celeb_crush = {
 #puts class_celeb_crush.values 
 #print out all of the values in my hash 
 
+class_celeb_crush.each do |student_names, crushes|
 
 
 
