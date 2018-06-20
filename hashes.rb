@@ -5,5 +5,6 @@
 
 
 celeb_crush = {} #how you create an empty hash 
+celeb_crush["Maggie"] = "Zac Efron"
 
 #create our first key and value 
