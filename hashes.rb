@@ -7,3 +7,6 @@
 celeb_crush = {} #how you create an empty hash 
 celeb_crush["Maggie"] = "Zac Efron"
 #create our first key and value. In this example, Maggie is the key, Zac Efron is the value 
+
+puts celeb_crush 
+#print out the key and the value 
