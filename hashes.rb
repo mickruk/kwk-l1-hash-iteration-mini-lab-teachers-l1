@@ -56,6 +56,8 @@ class_celeb_crush = {
     instructor_crushes[teachers] = celebs[index]
     index += 1 
   end 
+  
+  puts 
 
 
 
