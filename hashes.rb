@@ -55,6 +55,7 @@ class_celeb_crush = {
   names.each do |teachers|
     instructor_crushes[teachers] = celebs[index]
     index += 1 
+  end 
 
 
 
