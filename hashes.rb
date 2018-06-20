@@ -5,13 +5,14 @@
 
 
 celeb_crush = {} #how you create an empty hash 
+#Way #1 to add someone to the hash 
 celeb_crush["Maggie"] = "Zac Efron"
 #create our first key and value. In this example, Maggie is the key, Zac Efron is the value 
 
 puts celeb_crush 
 #print out the key and the value 
 
-#Way #1 to add someone to our hash 
+#Way #2 to add someone to our hash 
 person_numero_dos = "Zoe"
 crush = "Bruno Mars"
 celeb_crush[person_numer_dos] = crush 
