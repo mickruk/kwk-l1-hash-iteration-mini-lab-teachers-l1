@@ -47,7 +47,7 @@ class_celeb_crush = {
  #assigns the values to a variable called crushes. then it prints it out in a pretty way!! 
  
  names = ["Michelle", "Dayi"]
- celebs [""]
+ celebs ["Michael B Jordan", ]
 
 
 
