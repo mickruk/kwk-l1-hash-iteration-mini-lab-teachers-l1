@@ -23,11 +23,11 @@ class_celeb_crush = {
   "Maggie" => "Zac Efron",
   "Zoe" => "Bruno Mars",
   "Table 1" => "Karlie Kloss",
-  "Abby" => "Sabrina Carpenter"
-  "Anya" => "Mr. Bean"
-  "Chloe" => "Florence + the Machine"
-  "Zora"=> "Beyonce"
-  "Dana" => "Young Leo"
+  "Abby" => "Sabrina Carpenter",
+  "Anya" => "Mr. Bean",
+  "Chloe" => "Florence + the Machine",
+  "Zora"=> "Beyonce",
+  "Dana" => "Young Leo",
   "Bella" => "Young Harrison Ford"
 }
 
