@@ -30,3 +30,5 @@ class_celeb_crush = {
   "Dana" = "Young Leo"
   "Bella" = "Young Harrison Ford"
 }
+
+puts class_celeb_crush
