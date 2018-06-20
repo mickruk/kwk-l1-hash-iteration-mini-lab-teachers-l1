@@ -45,6 +45,9 @@ class_celeb_crush = {
 # end 
  #this iterates through the hash and assigns the keys to a variable called student_names and 
  #assigns the values to a variable called crushes. then it prints it out in a pretty way!! 
+ 
+ names = ["Michelle", "Dayi"]
+ celebs [""]
 
 
 
