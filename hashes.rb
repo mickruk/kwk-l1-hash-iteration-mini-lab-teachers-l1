@@ -40,6 +40,9 @@ class_celeb_crush = {
 #print out all of the values in my hash 
 
 class_celeb_crush.each do |student_names, crushes|
+ puts "#{student_names}'s celebrity crush is #{crushes}!!!"
+ puts ""
+ end 
 
 
 
