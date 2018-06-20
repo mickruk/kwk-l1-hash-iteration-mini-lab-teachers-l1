@@ -17,3 +17,4 @@ person_numero_dos = "Zoe"
 crush = "Bruno Mars"
 celeb_crush[person_numero_dos] = crush 
 
+#way 3 to make a not empty hash 
