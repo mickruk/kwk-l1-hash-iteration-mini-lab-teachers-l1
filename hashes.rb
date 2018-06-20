@@ -15,6 +15,6 @@ celeb_crush["Maggie"] = "Zac Efron"
 #Way #2 to add someone to our hash 
 person_numero_dos = "Zoe"
 crush = "Bruno Mars"
-celeb_crush[person_numer_dos] = crush 
+celeb_crush[person_numero_dos] = crush 
 
 puts celeb_crush
