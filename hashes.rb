@@ -18,3 +18,17 @@ crush = "Bruno Mars"
 celeb_crush[person_numero_dos] = crush 
 
 #way 3 to make a not empty hash 
+
+class_celeb_crush = {
+  "Maggie" => "Zac Efron",
+  "Zoe" => "Bruno Mars",
+  "Table 1" = "Karlie Kloss",
+  "Abby" = "Sabrina Carpenter"
+  "Anya" = "Mr. Bean"
+  "Chloe" = "Florence + the Machine"
+  "Zora"= "Beyonce"
+  "Dana" = "Young Leo"
+  "Bella" = "Young Harrison Ford"
+  
+  
+}
