@@ -17,4 +17,3 @@ person_numero_dos = "Zoe"
 crush = "Bruno Mars"
 celeb_crush[person_numero_dos] = crush 
 
-puts celeb_crush
