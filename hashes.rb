@@ -29,6 +29,4 @@ class_celeb_crush = {
   "Zora"= "Beyonce"
   "Dana" = "Young Leo"
   "Bella" = "Young Harrison Ford"
-  
-  
 }
